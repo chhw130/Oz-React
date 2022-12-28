@@ -1,0 +1,23 @@
+.img{
+    width: 20vw; height: 30hw;
+}
+
+.book{
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.title{
+    font-size: 2rem;
+}
+
+.author{
+    font-size: 1.2rem;
+}
+
+.bookList {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
