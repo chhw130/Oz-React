@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Oz-React/static/css/main.7815a989.css",
+    "main.js": "/Oz-React/static/js/main.335ed6f8.js",
+    "index.html": "/Oz-React/index.html",
+    "main.7815a989.css.map": "/Oz-React/static/css/main.7815a989.css.map",
+    "main.335ed6f8.js.map": "/Oz-React/static/js/main.335ed6f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7815a989.css",
+    "static/js/main.335ed6f8.js"
+  ]
+}
